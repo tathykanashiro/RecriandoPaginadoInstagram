@@ -2,6 +2,5 @@
 ## Projeto para Bootcamp Santader pela DIO
 
 - Utilizado CSS e HTML
-- List
 
 Construção de página simples.
